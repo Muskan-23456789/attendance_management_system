@@ -8,4 +8,4 @@
     { "src": "/api/(.*)", "dest": "server/src/server.js" },
     { "src": "/(.*)", "dest": "frontend/dist/$1" }
   ]
-}
+} 
